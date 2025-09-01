@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		6397268B2E5D3D7000263C37 /* ECоrtezs Hall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ECоrtezs Hall.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6397268B2E5D3D7000263C37 /* ECrtezs Hall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ECrtezs Hall.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		6397268C2E5D3D7000263C37 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6397268B2E5D3D7000263C37 /* ECоrtezs Hall.app */,
+				6397268B2E5D3D7000263C37 /* ECrtezs Hall.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6397268A2E5D3D7000263C37 /* ECоrtezs Hall */ = {
+		6397268A2E5D3D7000263C37 /* ECrtezs Hall */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 639726992E5D3D7200263C37 /* Build configuration list for PBXNativeTarget "ECоrtezs Hall" */;
+			buildConfigurationList = 639726992E5D3D7200263C37 /* Build configuration list for PBXNativeTarget "ECrtezs Hall" */;
 			buildPhases = (
 				639726872E5D3D7000263C37 /* Sources */,
 				639726882E5D3D7000263C37 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				6397268D2E5D3D7000263C37 /* ECоrtezs Hall */,
 			);
-			name = "ECоrtezs Hall";
+			name = "ECrtezs Hall";
 			packageProductDependencies = (
 			);
 			productName = "ECоrtezs Hall";
-			productReference = 6397268B2E5D3D7000263C37 /* ECоrtezs Hall.app */;
+			productReference = 6397268B2E5D3D7000263C37 /* ECrtezs Hall.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 639726862E5D3D7000263C37 /* Build configuration list for PBXProject "ECоrtezs Hall" */;
+			buildConfigurationList = 639726862E5D3D7000263C37 /* Build configuration list for PBXProject "ECrtezs Hall" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6397268A2E5D3D7000263C37 /* ECоrtezs Hall */,
+				6397268A2E5D3D7000263C37 /* ECrtezs Hall */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		639726862E5D3D7000263C37 /* Build configuration list for PBXProject "ECоrtezs Hall" */ = {
+		639726862E5D3D7000263C37 /* Build configuration list for PBXProject "ECrtezs Hall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				639726972E5D3D7200263C37 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		639726992E5D3D7200263C37 /* Build configuration list for PBXNativeTarget "ECоrtezs Hall" */ = {
+		639726992E5D3D7200263C37 /* Build configuration list for PBXNativeTarget "ECrtezs Hall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6397269A2E5D3D7200263C37 /* Debug */,
